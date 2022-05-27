@@ -7,7 +7,7 @@ GEM
     mini_portile2 (2.4.0)
     nokogiri (1.10.7)
       mini_portile2 (~> 2.4.0)
-    rack (2.0.8)
+    rack (2.1.4.1)
     rubyzip (2.0.0)
 
 PLATFORMS
